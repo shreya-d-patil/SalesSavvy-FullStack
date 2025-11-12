@@ -11,3 +11,7 @@ Tech Stack: Java, Spring Boot, REST APIs, JWT Authentication, React.js, MySQL, P
 - Designed relational database schema and optimized API workflows for cart → order → payment transitions
 - Delivered React.js frontend for intuitive shopping experience with product browsing, cart management, and order tracking
 - Collaborated in Agile setup with Git/GitHub for version control
+
+git add README.md
+git commit -m "docs: Add project README"
+git push
