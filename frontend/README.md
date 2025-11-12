@@ -1,8 +1,25 @@
-# React + Vite
+# SALESSAVVY - React Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## E-Commerce Frontend Application
 
-Currently, two official plugins are available:
+Built with React.js, this frontend application provides an intuitive shopping experience with product browsing, cart management, and order tracking.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User Authentication & Registration
+- Product Catalog with Search & Filter
+- Shopping Cart Management
+- Order Processing & Tracking
+- Responsive UI Design
+- Payment Integration Ready
+
+## Tech Stack
+- React.js
+- JavaScript
+- CSS3
+- HTML5
+- Vite (Build Tool)
+
+## Setup
+```bash
+npm install
+npm start
